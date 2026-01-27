@@ -1,0 +1,10 @@
+58. Length of Last Word
+Time: O(n) -100%
+Space: O(n)- 48%
+----
+SOLUTION
+___
+class Solution(object):
+    def lengthOfLastWord(self, s):
+        s = list(map(str, s.strip().split(" ")))
+        return len(s[-1])

@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0283-move-zeroes](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,4 +20,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 <!---LeetCode Topics End-->

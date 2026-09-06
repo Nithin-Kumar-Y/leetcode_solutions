@@ -28,4 +28,12 @@
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0115-distinct-subsequences/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0115-distinct-subsequences/) | Hard |
 <!---LeetCode Topics End-->

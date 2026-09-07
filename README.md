@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0283-move-zeroes](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -17,6 +18,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0283-move-zeroes](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -36,4 +38,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0115-distinct-subsequences/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->

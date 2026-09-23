@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0015-3sum/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -44,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0115-distinct-subsequences/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -65,4 +67,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
 <!---LeetCode Topics End-->

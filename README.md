@@ -87,4 +87,5 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->

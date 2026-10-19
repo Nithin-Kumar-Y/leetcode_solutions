@@ -5,8 +5,6 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        if target not in nums:
-            return []
         ans = []
         nums.sort()
         for i,x in enumerate(nums):

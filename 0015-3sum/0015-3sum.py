@@ -4,28 +4,25 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        res = []
+        ans = set()
         nums.sort()
         n = len(nums)
-        for l in range(n-2):
-            if l>0 and nums[l]== nums[l-1]:
-                continue
-            x = nums[l]
-            m = l+1
-            r= n-1
-            while m<r:
-                y = nums[m]
-                z= nums[r]
-                if x+y+z ==0:
-                    res.append([x,y,z])
-                    while r-1 >m and z== nums[r-1]:
-                        r-=1
-                    while m+1<r and y==nums[m+1]:
-                        m+=1
-                    m+=1
+        res = []
+        for i in range(n-2):
+            a= nums[i]
+            l=i+1
+            r=n-1
+            while l<r:
+                b = nums[l]
+                c=nums[r]
+                if a+b+c==0:
+                    if (a, b,c) not in ans:
+                        res.append([a,b,c])
+                        ans.add((a,b,c))
+                    l+=1
                     r-=1
-                elif x+y+z > 0:
+                elif a+b+c>0:
                     r-=1
                 else:
-                    m+=1
+                    l+=1
         return res

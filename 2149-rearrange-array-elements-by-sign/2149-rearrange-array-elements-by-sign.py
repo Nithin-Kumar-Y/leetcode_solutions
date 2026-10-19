@@ -4,21 +4,15 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        ans = []
         pos=0  
-        neg=0
+        neg=1
         n= len(nums)
-        sign = 1
+        ans = [0]*n
         for r in range(n):
-            if sign ==1:
-                while pos<n and nums[pos]<=0 :
-                    pos+=1
-                ans.append(nums[pos])
-                pos+=1
+            if nums[r]>0:
+                ans[pos]=nums[r]
+                pos+=2
             else:
-                while neg<n and nums[neg]>=0 :
-                    neg+=1
-                ans.append(nums[neg])
-                neg+=1
-            sign*= -1
+                ans[neg]=nums[r]
+                neg+=2
         return ans

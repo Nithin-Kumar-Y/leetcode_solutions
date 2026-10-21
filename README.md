@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -26,6 +27,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -59,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0015-3sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |

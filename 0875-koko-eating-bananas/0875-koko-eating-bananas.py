@@ -5,8 +5,11 @@ class Solution(object):
         :type h: int
         :rtype: int
         """
+        n= len(piles)
         low = 1
         high = max(piles)
+        if n==h:
+            return high
         ans = high
         while low <= high:
             m= (low+ high)//2

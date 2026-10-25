@@ -13,7 +13,7 @@ class Solution(object):
             a= matrix[i][j]
             if a==target:
                 return True
-            elif a>target:
+            if a>target:
                 j-=1
             else:
                 i+=1

@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -89,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +109,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |

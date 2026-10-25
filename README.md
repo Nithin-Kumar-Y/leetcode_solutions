@@ -10,6 +10,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -91,6 +92,7 @@
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,8 +113,13 @@
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->

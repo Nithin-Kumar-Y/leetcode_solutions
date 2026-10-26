@@ -7,7 +7,8 @@ class Solution(object):
         best = 0
         l=0
         seen = set()
-        for r, x in enumerate(s):
+        for r in range(len(s)):
+            x=s[r]
             if x not in seen:
                 seen.add(x)
             else:

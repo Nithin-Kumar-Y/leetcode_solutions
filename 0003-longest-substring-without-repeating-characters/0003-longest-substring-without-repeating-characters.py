@@ -12,7 +12,7 @@ class Solution(object):
             if x not in seen:
                 seen.add(x)
             else:
-                while l<r and x in seen:
+                while x in seen:
                     seen.discard(s[l])
                     l+=1
                 seen.add(x)

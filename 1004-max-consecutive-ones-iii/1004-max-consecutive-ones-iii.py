@@ -10,14 +10,14 @@ class Solution(object):
         seen = 0
         l=0
         for r in range(len(nums)):
+            curr+=1
             if nums[r]==0:
-                while seen==k:
+                seen+=1
+                while seen>k:
                     if nums[l]==0:
                         seen-=1
                     curr-=1
                     l+=1
-                seen+=1
-            curr+=1
             if curr>best:
                 best = curr
         return best

@@ -33,6 +33,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@
 | [0115-distinct-subsequences](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0205-isomorphic-strings](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -145,5 +147,6 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->

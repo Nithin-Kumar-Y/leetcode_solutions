@@ -44,6 +44,7 @@
 | [0015-3sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -139,6 +140,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0086-partition-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |

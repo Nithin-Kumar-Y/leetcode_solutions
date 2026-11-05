@@ -49,6 +49,7 @@
 | [0088-merge-sorted-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -103,6 +104,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0143-reorder-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -128,6 +130,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
@@ -148,6 +151,7 @@
 | [0086-partition-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |

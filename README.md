@@ -17,6 +17,7 @@
 | [0904-fruit-into-baskets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -52,6 +53,7 @@
 | [0234-palindrome-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -91,6 +93,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -158,6 +161,7 @@
 | [0875-koko-eating-bananas](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer

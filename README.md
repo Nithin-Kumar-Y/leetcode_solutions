@@ -62,6 +62,7 @@
 | [0002-add-two-numbers](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
 | [0231-power-of-two](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -109,6 +110,7 @@
 | [0206-reverse-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0342-power-of-four](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -198,4 +200,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->

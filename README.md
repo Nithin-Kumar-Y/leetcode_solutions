@@ -61,6 +61,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
+| [0231-power-of-two](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -106,6 +107,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
@@ -192,4 +194,8 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->

@@ -201,4 +201,5 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 <!---LeetCode Topics End-->

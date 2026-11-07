@@ -13,6 +13,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -136,6 +137,7 @@
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Bracket Sequences
@@ -202,4 +204,8 @@
 | [0231-power-of-two](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->

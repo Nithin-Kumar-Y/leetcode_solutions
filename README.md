@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -120,6 +121,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Combinatorics
@@ -138,6 +140,7 @@
 | [0143-reorder-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Bracket Sequences

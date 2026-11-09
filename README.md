@@ -60,6 +60,7 @@
 | [0283-move-zeroes](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@
 | [0503-next-greater-element-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -170,6 +172,7 @@
 | [0234-palindrome-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |

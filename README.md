@@ -10,6 +10,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0198-house-robber/) | Medium |
@@ -213,6 +214,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0231-power-of-two](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
@@ -228,4 +230,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->

@@ -9,9 +9,8 @@ class Solution(object):
         def backtrack(i, path):
             if path not in res:
                 res.append(path[:])
-            if i==n:
-                return 
-            backtrack(i+1, path+[nums[i]])
-            backtrack(i+1, path)
+            for k in range(i, n):
+                backtrack(k+1, path+[nums[k]])
+                backtrack(k+1, path)
         backtrack(0, [])
         return res

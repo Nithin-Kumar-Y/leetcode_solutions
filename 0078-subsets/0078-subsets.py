@@ -5,11 +5,13 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         res = []
+        n=len(nums)
         def backtrack(i, path):
-            res.append(path[:])
-            for j in range(i, len(nums)):
-                path.append(nums[j])
-                backtrack(j+1, path)
-                path.pop()
+            if path not in res:
+                res.append(path[:])
+            if i==n:
+                return 
+            backtrack(i+1, path+[nums[i]])
+            backtrack(i+1, path)
         backtrack(0, [])
         return res

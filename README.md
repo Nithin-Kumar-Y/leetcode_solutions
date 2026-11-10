@@ -14,6 +14,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0198-house-robber/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -231,4 +232,5 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->

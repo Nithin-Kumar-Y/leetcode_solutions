@@ -92,6 +92,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -102,6 +103,7 @@
 | [0062-unique-paths](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0198-house-robber/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Sorting
@@ -235,5 +237,6 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0078-subsets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->

@@ -14,7 +14,7 @@ class Solution(object):
                 ans.append(["".join(i) for i in board])
                 return
             for col in range(n):
-                if col in cols or i-col in diag1 or i+col in diag2:
+                if (col in cols )|( i-col in diag1 )|( i+col in diag2):
                     continue
 
                 cols.add(col)

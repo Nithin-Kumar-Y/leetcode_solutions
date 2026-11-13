@@ -237,6 +237,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0051-n-queens](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -245,4 +246,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->

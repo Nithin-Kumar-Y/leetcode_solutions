@@ -26,6 +26,7 @@
 | [0904-fruit-into-baskets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1219-path-with-maximum-gold](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -150,6 +151,7 @@
 | [0063-unique-paths-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1219-path-with-maximum-gold](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +250,7 @@
 | [0090-subsets-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0216-combination-sum-iii/) | Medium |
+| [1219-path-with-maximum-gold](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |

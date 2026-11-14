@@ -93,6 +93,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -102,6 +103,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0115-distinct-subsequences/) | Hard |
@@ -161,6 +163,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -237,6 +240,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0052-n-queens-ii/) | Hard |

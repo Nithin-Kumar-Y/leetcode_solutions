@@ -32,6 +32,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -87,6 +88,7 @@
 | [0410-split-array-largest-sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## String
@@ -217,6 +219,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |

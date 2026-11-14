@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0015-3sum/) | Medium |
+| [0046-permutations](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0051-n-queens/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -236,6 +237,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0046-permutations](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0078-subsets/) | Medium |

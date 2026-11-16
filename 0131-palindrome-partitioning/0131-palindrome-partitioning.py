@@ -4,15 +4,24 @@ class Solution(object):
         :type s: str
         :rtype: List[List[str]]
         """
-        n=len(s)
         ans=[]
-        def backtrack(path, idx):
-            if idx==n:
+        path=[]
+        n=len(s)
+        def isPalind(l, r):
+            while l< r:
+                if s[l] != s[r]:
+                    return False
+                l+=1
+                r-=1
+            return True
+        def backtrack(start):
+            if start==n:
                 ans.append(path[:])
                 return
-            for end in range(idx, n):
-                a= s[idx:end+1]
-                if a==a[::-1]:
-                    backtrack(path+[a], end+1)
-        backtrack([], 0)
+            for end in range(start, n):
+                if isPalind(start, end):
+                    path.append(s[start:end+1])
+                    backtrack(end+1)
+                    path.pop()
+        backtrack(0)
         return ans

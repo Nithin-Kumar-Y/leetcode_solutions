@@ -5,16 +5,16 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        best = float('inf')
+        best = len(nums)+1
         left=0
         total=0
         for right, val in enumerate(nums):
             total+=val
             while total>=target:
+                if right-left+1 < best:
+                    best= right-left+1
                 total-=nums[left]
                 left+=1
-                if right-left+1 < best:
-                    best= right-left+2
-        if best==float('inf'):
+        if best==len(nums)+1:
             return 0
         return best

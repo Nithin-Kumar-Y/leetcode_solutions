@@ -18,6 +18,7 @@
 | [0198-house-robber](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0216-combination-sum-iii/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -219,6 +220,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -263,4 +265,20 @@
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0052-n-queens-ii/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->

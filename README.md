@@ -83,6 +83,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
@@ -121,6 +122,7 @@
 | [0042-trapping-rain-water](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0062-unique-paths](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0070-climbing-stairs](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0198-house-robber/) | Medium |
@@ -300,4 +302,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->

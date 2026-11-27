@@ -173,6 +173,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -306,4 +307,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Nithin-Kumar-Y/leetcode_solutions/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
